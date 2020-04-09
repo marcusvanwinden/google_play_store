@@ -2,7 +2,7 @@
 
 ### Link
 
-[Click here to view project](google_pay_store.ipynb)
+[Click here to view project](google_play_store.ipynb)
 
 ### Description
 
