@@ -6,4 +6,4 @@
 
 ### Description
 
-
+An analysis about Google's Play Store.
