@@ -1,4 +1,4 @@
-# Google Play Store
+# Google Play
 
 ### Link
 
